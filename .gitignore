@@ -1,0 +1,5 @@
+.DS_Store
+solution
+*.exe
+*.out
+.vscode/
