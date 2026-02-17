@@ -1,4 +1,4 @@
-// Problem 279: Contains Duplicate
+// Problem 217: Contains Duplicate
 #include <iostream>
 #include <vector>
 #include <unordered_set>
